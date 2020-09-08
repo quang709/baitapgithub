@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.exe
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.deps.json
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.dll
+C:\Users\admin\source\repos\hello\bin\Debug\netcoreapp3.1\hello.pdb
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.dll
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.pdb
+C:\Users\admin\source\repos\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache
